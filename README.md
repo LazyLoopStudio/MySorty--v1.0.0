@@ -1,2 +1,3 @@
-# MySorty--v1.0.0
-A File Sorter
+Made by Lazy Loop Studio
+
+All rights reserved
